@@ -1,0 +1,2 @@
+sync write hello nodejs
+async write hello nodejs
