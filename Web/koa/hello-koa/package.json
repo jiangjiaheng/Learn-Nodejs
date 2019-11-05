@@ -1,0 +1,14 @@
+{
+    "name": "hello-koa",
+    "version": "1.0.0",
+    "description": "koa first project",
+    "main": "hello-koa.js",
+    "scripts": {
+        "start": "node hello-koa.js"
+    },
+    "author": "jiangjiaheng",
+    "license": "ISC",
+    "dependencies": {
+        "koa": "^2.11.0"
+    }
+}
