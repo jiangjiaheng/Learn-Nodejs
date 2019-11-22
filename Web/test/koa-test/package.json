@@ -1,0 +1,17 @@
+{
+    "name": "koa-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "start.js",
+    "scripts": {
+        "start": "node start.js",
+        "test": "mocha"
+    },
+    "author": "jiangjiaheng",
+    "license": "ISC",
+    "dependencies": {
+        "koa": "^2.11.0",
+        "mocha": "^6.2.2",
+        "supertest": "^4.0.2"
+    }
+}
