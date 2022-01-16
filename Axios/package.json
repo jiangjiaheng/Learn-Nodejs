@@ -1,0 +1,16 @@
+{
+    "name": "axios-test",
+    "version": "1.0.0",
+    "description": "a axios api request test",
+    "main": "app.js",
+    "private": true,
+    "scripts": {
+        "request": "nodemon app.js"
+    },
+    "dependencies": {
+        "axios": "^0.24.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
