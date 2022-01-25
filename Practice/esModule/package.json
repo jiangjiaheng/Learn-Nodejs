@@ -1,0 +1,11 @@
+{
+    "name": "esmodule",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "nodemon import.js"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
