@@ -1,0 +1,6 @@
+{
+    "name": "fs-test",
+    "dependencies": {
+        "fs-extra": "^10.0.0"
+    }
+}
