@@ -14,7 +14,7 @@
     "author": "jiangjiaheng",
     "license": "ISC",
     "dependencies": {
-        "ws": "1.1.1",
+        "ws": "1.1.5",
         "koa": "2.0.0",
         "koa-bodyparser": "3.2.0",
         "koa-router": "7.0.0",
